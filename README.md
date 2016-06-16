@@ -1,4 +1,4 @@
-# SpaceShooter
+# Space Shooter
 <b>Norwalk High School</b> :school: - <b>Project Lead The Way (PLTW) Computer Science</b><br>
 <b>Class:</b> Computer Science Applications (CSA) - 1st Year (Junior)<br>
 <b>Project Requirements:</b> Creation of Space Shooter game, along with personalized edits.<br>
