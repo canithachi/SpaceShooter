@@ -2,6 +2,11 @@
 <b>Norwalk High School</b> :school: - <b>Project Lead The Way (PLTW) Computer Science</b><br>
 <b>Class:</b> Computer Science Applications (CSA) - 1st Year (Junior)<br>
 <b>Project Requirements:</b> Creation of Space Shooter game, along with personalized edits.<br>
+<b>Controls:</b><br>
+<b>         </b> W- move forward.<br>
+<b>         </b> A- move left.<br>
+<b>         </b> S- move back.<br>
+<b>         </b> D- move right.<br>
 <b>Deliverables:</b> Completed game is tested on a computer, presented to peers, and uploaded to GitHub for teacher review and grade.   
 <br>
 <b>Example screenshot of our completed Space Shooter game.</b><br><br> 
